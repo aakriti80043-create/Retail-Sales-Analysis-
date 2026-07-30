@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Data Analysis Dashboard
+# 📊 Retail Sales Analysis 
 
 ## 📌 Project Overview
 
